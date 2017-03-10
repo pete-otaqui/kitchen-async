@@ -1,0 +1,24 @@
+{
+  "name": "kitchen-async",
+  "version": "1.0.0",
+  "description": "A little experiment with tape tests and async / await",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.test.js"
+  },
+  "eslintConfig": {
+    "extends": ["airbnb"]
+  },
+  "keywords": ["ES7", "async", "await", "testing", "tape", "tap"],
+  "author": "Pete Otaqui <pete@otaqui.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.17.1",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.0",
+    "faucet": "0.0.1",
+    "tape": "^4.6.3"
+  }
+}
