@@ -12,6 +12,7 @@
   "keywords": ["ES7", "async", "await", "testing", "tape", "tap"],
   "author": "Pete Otaqui <pete@otaqui.com>",
   "license": "MIT",
+  "engines" : { "node" : ">=7.6.0" },
   "devDependencies": {
     "eslint": "^3.17.1",
     "eslint-config-airbnb": "^14.1.0",
