@@ -1,6 +1,6 @@
 # Kitchen Async
 
-![Build Status](https://travis-ci.org/pete-otaqui/kitchen-async.svg)
+[![Build Status](https://travis-ci.org/pete-otaqui/kitchen-async.svg)](https://travis-ci.org/pete-otaqui/kitchen-async "Build Status")
 
 A little experiment in writing tests with [tape](https://github.com/substack/tape) with ES7 `async` and `await`.
 
